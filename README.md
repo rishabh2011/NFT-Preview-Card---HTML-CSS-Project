@@ -68,8 +68,10 @@ Users should be able to:
 
 I tried to use the vertical-align css property in various parts of the code but ultimately couldn't use it effectively. I am still hazy as to how the vertical-align property works and how to use it affectively. Will have to focus on it more.
 
-As it turns out, there are a variety of ways to achieve the design one is looking for using css. As such I feel like maybe my code could have been more clean and affective? Maybe there is no guideline as to how to approach a design. If it works it works?w
+As it turns out, there are a variety of ways to achieve the design one is looking for using css. As such I feel like maybe my code could have been more clean and affective? Maybe there is no guideline as to how to approach a design. If it works it works?
 Experience will tell.
+
+I have yet to learn about responsive CSS. This site currently does not work properly for mobile devices. Will update this once I learn responsive css.
 
 ### Useful resources
 
