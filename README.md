@@ -47,7 +47,7 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5 markup
 - CSS custom properties
 
 ### What I learned
@@ -71,7 +71,7 @@ I tried to use the vertical-align css property in various parts of the code but 
 As it turns out, there are a variety of ways to achieve the design one is looking for using css. As such I feel like maybe my code could have been more clean and affective? Maybe there is no guideline as to how to approach a design. If it works it works?
 Experience will tell.
 
-I have yet to learn about responsive CSS. This site currently does not work properly for mobile devices. Will update this once I learn responsive css.
+I have yet to learn about responsive CSS. This site currently works properly only on 1080p displays. Will update this once I learn responsive css.
 
 ### Useful resources
 
